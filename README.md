@@ -8,15 +8,25 @@ Data consists of 60,000 images belonging to 10 categories of apparels -
 
 Label	Description
 0	T-shirt/top
+
 1	Trouser
+
 2	Pullover
+
 3	Dress
+
 4	Coat
+
 5	Sandal
+
 6	Shirt
+
 7	Sneaker
+
 8	Bag
+
 9	Ankle boot
+
 
 The data was divided as per below -
 50,000 images from each category for training
