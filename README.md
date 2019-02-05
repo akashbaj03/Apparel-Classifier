@@ -2,6 +2,7 @@
 A deep learning module which can be used to classify images of apparels into respective categories. This comes very handy for an retail e-commerce website where there can be thousands of images and manual classification will lead high labor cost.
 
 Data
+
 Courtesy:https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/
 Data consists of 60,000 images belonging to 10 categories of apparels -
 
@@ -22,4 +23,5 @@ The data was divided as per below -
 10,000 images from each category for validation
 
 Result
+
 The model gives a multi-class accuracy of about 88%
