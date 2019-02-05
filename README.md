@@ -4,9 +4,11 @@ A deep learning module which can be used to classify images of apparels into res
 Data
 
 Courtesy:https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/
+
 Data consists of 60,000 images belonging to 10 categories of apparels -
 
 Label	Description
+
 0	T-shirt/top
 
 1	Trouser
@@ -29,7 +31,9 @@ Label	Description
 
 
 The data was divided as per below -
+
 50,000 images from each category for training
+
 10,000 images from each category for validation
 
 Result
