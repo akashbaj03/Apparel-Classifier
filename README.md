@@ -3,7 +3,7 @@ A deep learning module which can be used to classify images of apparels into res
 
 Data
 
-Courtesy:https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/
+Courtesy: https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/
 
 Data consists of 60,000 images belonging to 10 categories of apparels -
 
